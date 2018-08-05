@@ -6,7 +6,7 @@ The step sequencer from the conductive printout was also replicated on an Adafru
 I only handled the midi side of things - the GUI was done by my co-worker.
 
 
-The main cpp things that I contributed are esenssialy the same as the main found in the conductive printout folder. 
+The main.cpp things that I contributed are esenssialy the same as the main found in the conductive printout folder. [Here!](https://github.com/thecoreyford/Undergrad-Internship/tree/master/artefacts/conductive%20printout)
 
 ## Photo
 
