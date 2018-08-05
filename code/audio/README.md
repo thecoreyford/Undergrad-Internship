@@ -33,7 +33,6 @@ If you were using a DSP object that dosen't generate an input (such as Delays.cp
 signalGenerator.updateFrames(frame->buffers());
 ```
 ... with the overidden parameter of the current buffer as is. 
-However, this hasn't been tested yet. //TODO
 
 ### GPIOUI
 The GPIOUI class inherits fausts UI class so its possible to interface with the 
